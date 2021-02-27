@@ -399,7 +399,7 @@
                                 <w:p w:rsidR="00175B3F" w:rsidRPr="00FA6EAC" w:rsidRDefault="00B6768E"
                                      w:rsidP="00CF755D">
                                     <w:r>
-                                        <w:t>${c_index}</w:t>
+                                        <w:t>${c.INDEX}</w:t>
                                     </w:r>
                                 </w:p>
                             </w:tc>
